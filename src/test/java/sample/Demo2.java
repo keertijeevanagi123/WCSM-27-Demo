@@ -9,5 +9,8 @@ public class Demo2{
 	public void demo() {
 		
 		System.out.println("git hub commited");
+		System.out.println("this is committed and pushhed");
 	}
+	
+	
 }
