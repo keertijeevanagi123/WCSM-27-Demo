@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-12T11:57:58 IST" name="Default suite" finished-at="2023-04-12T11:57:58 IST" duration-ms="74">
+    <groups>
+    </groups>
+    <test started-at="2023-04-12T11:57:58 IST" name="Default test" finished-at="2023-04-12T11:57:58 IST" duration-ms="74">
+      <class name="sample.Demo">
+        <test-method signature="kiru()[pri:0, instance:sample.Demo@3cc2931c]" started-at="2023-04-12T11:57:58 IST" name="kiru" finished-at="2023-04-12T11:57:58 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kiru -->
+      </class> <!-- sample.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
