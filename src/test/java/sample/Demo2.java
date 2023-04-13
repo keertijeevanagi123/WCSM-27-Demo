@@ -10,6 +10,7 @@ public class Demo2{
 		
 		System.out.println("git hub commited");
 		System.out.println("this is committed and pushhed");
+		System.out.println("demo committed, pushed, n pulled");
 	}
 	
 	
