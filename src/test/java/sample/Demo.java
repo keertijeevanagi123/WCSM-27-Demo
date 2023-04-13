@@ -14,5 +14,7 @@ public class Demo {
 	@Test
 	public void kiru() {
 		System.out.println("this is again commited");
+		
+		System.out.println("Hi");
 }
 }
